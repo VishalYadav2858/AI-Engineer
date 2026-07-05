@@ -1,0 +1,581 @@
+name,rating,reviews,company_type,Head_Quarters
+TCS,3.3,(1.2L),IT Services & Consulting,Bengaluru +448 other locations
+Accenture,3.7,(75k),IT Services & Consulting,Bengaluru +261 other locations
+Wipro,3.6,(66.2k),IT Services & Consulting,Hyderabad +375 other locations
+Cognizant,3.7,(62.6k),IT Services & Consulting,Hyderabad +233 other locations
+Capgemini,3.6,(54.6k),IT Services & Consulting,Bengaluru +188 other locations
+HDFC Bank,3.8,(53.7k),Banking,Mumbai +1863 other locations
+Infosys,3.5,(49.8k),IT Services & Consulting,Bengaluru +247 other locations
+HCLTech,3.4,(46.9k),IT Services & Consulting,Chennai +232 other locations
+ICICI Bank,3.9,(46.7k),Banking,Mumbai +1447 other locations
+Tech Mahindra,3.3,(44.2k),IT Services & Consulting,Hyderabad +323 other locations
+Genpact,3.6,(43.3k),Analytics & KPO,Hyderabad +181 other locations
+TP,3.9,(39.6k),BPO,Mumbai +259 other locations
+Axis Bank,3.6,(34k),Banking,Mumbai +1532 other locations
+Jio,4.4,(34k),Telecom,Mumbai +1965 other locations
+Concentrix Corporation,3.5,(32.9k),BPO,Bengaluru +185 other locations
+Amazon,3.9,(32.3k),Internet,Bengaluru +521 other locations
+Reliance Retail,3.9,(27.8k),Retail,Mumbai +1167 other locations
+iEnergizer,4.6,(27.4k),BPO,Noida +55 other locations
+LTIMindtree,3.6,(27k),IT Services & Consulting,Bengaluru +145 other locations
+HDB Financial Services,3.9,(26.2k),NBFC,Mumbai +1098 other locations
+IBM,3.9,(26.2k),IT Services & Consulting,Bengaluru +162 other locations
+Larsen & Toubro Limited,3.9,(24.4k),Engineering & Construction,Mumbai +780 other locations
+Deloitte,3.6,(23.9k),Management Consulting,Hyderabad +186 other locations
+Kotak Mahindra Bank,3.6,(23k),Banking,Mumbai +695 other locations
+Reliance Industries,4.0,(20.6k),Oil & Gas,Jamnagar +822 other locations
+Vodafone Idea,3.9,(17.8k),Telecom,Pune +708 other locations
+Bharti Airtel,3.8,(17.4k),Telecom,Gurugram +797 other locations
+BYJU'S,3.2,(16.4k),EdTech,Bengaluru +321 other locations
+WNS,3.3,(15.6k),IT Services & Consulting,Pune +68 other locations
+IDFC FIRST Bank,4.0,(15.3k),Banking,Mumbai +745 other locations
+Ernst & Young,3.4,(15k),Management Consulting,Bengaluru +135 other locations
+IndusInd Bank,3.4,(14.6k),Banking,Mumbai +805 other locations
+AU Small Finance Bank,3.8,(14.5k),Banking,Jaipur +810 other locations
+Tata Motors,4.1,(14.4k),Automobile,Pune +507 other locations
+Bajaj Finserv,3.9,(13.5k),NBFC,Pune +1219 other locations
+Muthoot FinCorp,4.5,(13.3k),NBFC,Bengaluru +1126 other locations
+Flipkart,3.9,(13.3k),Internet,Bengaluru +560 other locations
+PwC,3.3,(13k),Management Consulting,Bengaluru +138 other locations
+HDFC Life,3.8,(12.4k),Insurance,Mumbai +722 other locations
+Mahindra & Mahindra,4.0,(12.3k),Automobile,Pune +570 other locations
+Infosys BPM,3.5,(12.3k),BPO,Bengaluru +95 other locations
+DXC Technology,3.6,(12.2k),IT Services & Consulting,Bengaluru +132 other locations
+Bandhan Bank,3.6,(11.5k),Banking,Kolkata +1025 other locations
+Digitide Solutions,3.4,(10.5k),IT Services & Consulting,Hyderabad +276 other locations
+Yes Bank,3.7,(10.5k),Banking,Mumbai +545 other locations
+Mphasis,3.3,(10.4k),IT Services & Consulting,Bengaluru +63 other locations
+Tata Steel,4.0,(10.1k),Iron & Steel,Jamshedpur +228 other locations
+Quess,3.8,(10k),Recruitment,Bengaluru +767 other locations
+Asian Paints,3.9,(9.8k),Chemicals,Mumbai +563 other locations
+UltraTech Cement,4.1,(9.7k),Building Material,Mumbai +548 other locations
+Startek,3.0,(9.7k),BPO,Bengaluru +104 other locations
+Maruti Suzuki,4.1,(9.7k),Automobile,Gurugram +462 other locations
+Paytm,3.2,(9.5k),FinTech,Noida +430 other locations
+Bajaj Finance,3.9,(9.5k),NBFC,Pune +1013 other locations
+Shriram Finance,3.9,(9.3k),NBFC,Chennai +1127 other locations
+Sutherland Global Services,3.3,(9.3k),BPO,Chennai +82 other locations
+Coforge,3.3,(9k),IT Services & Consulting,Hyderabad +113 other locations
+Equitas Small Finance Bank,4.3,(9k),Banking,Chennai +487 other locations
+Wells Fargo,3.6,(8.9k),Financial Services,Bengaluru +27 other locations
+Cipla,4.1,(8.8k),Pharma,Mumbai +297 other locations
+EXL Service,3.6,(8.8k),Analytics & KPO,Noida +62 other locations
+Ericsson,3.9,(8.5k),Telecom,Noida +161 other locations
+Samsung,3.9,(8.4k),Consumer Electronics & Appliances,Noida +582 other locations
+Dr. Reddy's,4.0,(8.4k),Pharma,Hyderabad +217 other locations
+Optum Global Solutions,4.0,(8.2k),IT Services & Consulting,Hyderabad +69 other locations
+JSW Steel,3.9,(8.1k),Iron & Steel,Ballari +201 other locations
+Delhivery,3.8,(8k),Logistics,Gurugram +771 other locations
+JPMorgan Chase & Co.,3.8,(8k),Financial Services,Bengaluru +56 other locations
+ICICI Prudential Life Insurance,3.9,(7.9k),Insurance,Mumbai +514 other locations
+Hexaware Technologies,3.4,(7.9k),IT Services & Consulting,Chennai +71 other locations
+Ujjivan Small Finance Bank,4.0,(7.8k),Banking,Bengaluru +548 other locations
+Jana Small Finance Bank,3.7,(7.8k),Banking,Bengaluru +429 other locations
+Sun Pharmaceutical Industries,4.0,(7.8k),Pharma,Vadodara +266 other locations
+Zydus Lifesciences,4.0,(7.7k),Pharma,Ahmedabad +185 other locations
+Ekart Logistics,3.9,(7.7k),Logistics,Bengaluru +742 other locations
+HGS,3.7,(7.6k),Emerging Technologies,Bengaluru +122 other locations
+Amazon Development Centre India,3.8,(7.5k),Internet,Hyderabad +146 other locations
+KPMG India,3.4,(7.5k),Management Consulting,Bengaluru +112 other locations
+Lupin,4.1,(7.5k),Pharma,Pune +205 other locations
+Axis Max Life Insurance,4.0,(7.4k),Insurance,New Delhi +516 other locations
+L&T Construction,4.0,(7.3k),Engineering & Construction,Chennai +436 other locations
+ITC,3.8,(7.3k),FMCG,Bengaluru +383 other locations
+Hindustan Unilever,4.2,(7.3k),FMCG,Mumbai +550 other locations
+Megha Engineering & Infrastructures,3.9,(7.1k),Engineering & Construction,Hyderabad +414 other locations
+Tata Projects,4.2,(7k),Engineering & Construction,Mumbai +288 other locations
+Cholamandalam Investment & Finance,3.8,(6.8k),Financial Services,Chennai +873 other locations
+Bajaj Life Insurance,3.8,(6.8k),Insurance,Pune +623 other locations
+L&T Technology Services,3.1,(6.8k),IT Services & Consulting,Bengaluru +95 other locations
+FIS,3.7,(6.7k),FinTech,Pune +61 other locations
+Oracle,3.3,(6.6k),Software Product,Bengaluru +56 other locations
+Omega Healthcare,3.7,(6.6k),BPO,Chennai +70 other locations
+JLL,4.1,(6.6k),Real Estate,Gurugram +89 other locations
+Muthoot Finance,3.7,(6.5k),NBFC,Bengaluru +801 other locations
+IIFL Finance,4.0,(6.5k),NBFC,Mumbai +820 other locations
+eClerx,3.1,(6.5k),IT Services & Consulting,Pune +33 other locations
+Indian Army,4.7,(6.4k),Defence & Aerospace,New Delhi +365 other locations
+DMart,3.9,(6.3k),Retail,Mumbai +257 other locations
+PolicyBazaar,3.7,(6.3k),Internet,Gurugram +162 other locations
+Piramal Finance,4.2,(6.3k),NBFC,Mumbai +436 other locations
+Indiamart Intermesh,3.5,(6.2k),Internet,Noida +169 other locations
+Virtusa Consulting Services,3.7,(6.2k),IT Services & Consulting,Hyderabad +56 other locations
+HSBC Group,3.8,(6.2k),Financial Services,Bengaluru +63 other locations
+SMFG India Credit,3.9,(6.1k),NBFC,Mumbai +612 other locations
+HCL Group,3.5,(6.1k),IT Services & Consulting,Chennai +97 other locations
+Access Healthcare,3.7,(6.1k),BPO,Chennai +62 other locations
+BigBasket,3.9,(6k),Internet,Bengaluru +145 other locations
+Manappuram Finance,3.9,(5.9k),NBFC,Bengaluru +664 other locations
+ICICI Lombard General Insurance Company,3.5,(5.9k),Insurance,Mumbai +325 other locations
+Siemens,3.9,(5.9k),Industrial Automation,Bengaluru +156 other locations
+GlobalLogic,3.5,(5.9k),IT Services & Consulting,Hyderabad +62 other locations
+Firstsource Solutions,3.5,(5.9k),BPO,Bengaluru +73 other locations
+Apollo Hospitals,4.0,(5.9k),Healthcare,Chennai +227 other locations
+Aurobindo Pharma,4.0,(5.9k),Pharma,Hyderabad +117 other locations
+Shapoorji Pallonji Group,4.1,(5.8k),Engineering & Construction,Mumbai +190 other locations
+Tata Capital,4.0,(5.8k),NBFC,Mumbai +459 other locations
+UST,3.7,(5.8k),IT Services & Consulting,Bengaluru +52 other locations
+Standard Chartered,3.6,(5.8k),Banking,Chennai +71 other locations
+Swiggy,3.7,(5.8k),Internet,Bengaluru +240 other locations
+Mahindra Finance,3.8,(5.8k),NBFC,Mumbai +743 other locations
+Bosch Global Software Technologies,3.7,(5.7k),IT Services & Consulting,Bengaluru +47 other locations
+Udaan,3.9,(5.7k),Internet,Bengaluru +366 other locations
+Citicorp,3.6,(5.7k),Financial Services,Pune +68 other locations
+Ashok Leyland,4.0,(5.7k),Automobile,Chennai +265 other locations
+Hero MotoCorp,4.1,(5.6k),Automobile,Gurugram +376 other locations
+CGI Inc,4.0,(5.5k),IT Services & Consulting,Bengaluru +43 other locations
+SBI Cards & Payment Services,3.6,(5.4k),Financial Services,Gurugram +450 other locations
+NTT DATA,3.8,(5.4k),IT Services & Consulting,Bengaluru +81 other locations
+Kalpataru Projects International,4.1,(5.4k),Engineering & Construction,Mumbai +329 other locations
+Cyient,3.6,(5.4k),IT Services & Consulting,Hyderabad +49 other locations
+BNY,3.6,(5.4k),Financial Services,Pune +28 other locations
+Nagarjuna Construction Company,4.0,(5.4k),Engineering & Construction,Hyderabad +300 other locations
+IQVIA,3.7,(5.4k),Clinical Research,Bengaluru +68 other locations
+Schneider Electric,4.1,(5.3k),Industrial Automation,Bengaluru +122 other locations
+SBI Life Insurance Company,3.7,(5.3k),Insurance,Mumbai +666 other locations
+CBRE,4.1,(5.2k),Real Estate,Hyderabad +92 other locations
+JustDial,3.5,(5.2k),Internet,Noida +238 other locations
+TVS Motor,3.8,(5.2k),Automobile,Hosur +356 other locations
+State Bank of India,3.9,(5.2k),Banking,Mumbai +657 other locations
+Persistent Systems,3.5,(5.2k),IT Services & Consulting,Pune +42 other locations
+KEC International,4.0,(5.1k),Engineering & Construction,Mumbai +320 other locations
+ITC Infotech,3.8,(5k),IT Services & Consulting,Bengaluru +69 other locations
+Atos,3.8,(5k),IT Services & Consulting,Pune +50 other locations
+Amdocs,3.6,(5k),Software Product,Pune +24 other locations
+vivo,4.0,(5k),Consumer Electronics & Appliances,Noida +417 other locations
+Varun Beverages,4.0,(4.9k),Beverage,New Delhi +387 other locations
+JBM Group,3.9,(4.9k),Auto Components,Gurugram +119 other locations
+Utkarsh Small Finance Bank,3.6,(4.9k),Banking,Varanasi +426 other locations
+Ecom Express,4.1,(4.9k),Logistics,Gurugram +782 other locations
+Nagarro,3.9,(4.8k),IT Services & Consulting,Gurugram +48 other locations
+Randstad,3.7,(4.8k),Recruitment,Hyderabad +371 other locations
+Eviden,3.6,(4.8k),IT Services & Consulting,Pune +39 other locations
+EY Global Delivery Services ( EY GDS),3.5,(4.8k),IT Services & Consulting,Bengaluru +57 other locations
+Bosch,4.1,(4.8k),Auto Components,Bengaluru +133 other locations
+Intas Pharmaceuticals,4.1,(4.7k),Pharma,Ahmedabad +152 other locations
+Hetero,3.9,(4.7k),Pharma,Hyderabad +73 other locations
+Havells,3.9,(4.7k),Electrical Equipment,Noida +269 other locations
+L&T Finance,3.9,(4.7k),NBFC,Mumbai +660 other locations
+Aditya Birla Fashion and Retail,4.0,(4.7k),Fashion & Textile,Bengaluru +295 other locations
+Hewlett Packard Enterprise,4.0,(4.7k),IT Services & Consulting,Bengaluru +104 other locations
+Tata AIA Life Insurance,3.8,(4.7k),Insurance,Mumbai +460 other locations
+R1 RCM,3.8,(4.7k),BPO,New Delhi +49 other locations
+Cars24,3.4,(4.7k),Internet,Gurugram +172 other locations
+Mahindra Logistics,3.7,(4.6k),Logistics,Mumbai +233 other locations
+Lenskart,3.3,(4.6k),Internet,New Delhi +256 other locations
+Dell,3.8,(4.6k),Consumer Electronics & Appliances,Bengaluru +118 other locations
+Berger Paints,3.7,(4.6k),Chemicals,Kolkata +373 other locations
+Home Credit Finance,4.0,(4.6k),NBFC,Gurugram +140 other locations
+Deutsche Bank,3.8,(4.6k),Banking,Pune +42 other locations
+Motilal Oswal Financial Services,3.7,(4.5k),Financial Services,Mumbai +170 other locations
+OPPO,3.8,(4.5k),Consumer Electronics & Appliances,Greater Noida +414 other locations
+Hyundai Motor India Limited,4.1,(4.5k),Automobile,Chennai +294 other locations
+TeamLease Services,3.9,(4.5k),Recruitment,Bengaluru +408 other locations
+VE Commercial Vehicles,3.9,(4.5k),Automobile,Indore +184 other locations
+Thermax Limited,4.2,(4.4k),Industrial Machinery,Pune +261 other locations
+Jubilant Foods Works,3.7,(4.4k),Hospitality,Noida +272 other locations
+Carelon Global Solutions,3.9,(4.3k),IT Services & Consulting,Bengaluru +20 other locations
+Macleods Pharmaceuticals,3.7,(4.3k),Pharma,Mumbai +140 other locations
+Aakash Educational Services,3.2,(4.3k),Education & Training,New Delhi +251 other locations
+Jindal Steel Limited,3.9,(4.3k),Iron & Steel,Angul +176 other locations
+State Street Corporation,3.5,(4.3k),Financial Services,Bengaluru +36 other locations
+Bajaj Auto,3.8,(4.3k),Automobile,Pune +326 other locations
+Hindalco Industries,4.2,(4.2k),Metals & Mining,Sambalpur +133 other locations
+LG Electronics,3.8,(4.2k),Consumer Electronics & Appliances,Pune +303 other locations
+Kogta Financial India Limited,4.6,(4.2k),NBFC,Jaipur +260 other locations
+HDFC ERGO General Insurance,4.0,(4.2k),Insurance,Mumbai +330 other locations
+DCB Bank,3.8,(4.1k),Banking,Mumbai +349 other locations
+Royal Enfield,4.2,(4.1k),Automobile,Chennai +376 other locations
+John Deere,4.0,(4.1k),Industrial Machinery,Pune +157 other locations
+RBL Bank,3.5,(4.1k),Banking,Mumbai +294 other locations
+Tata Communications,3.8,(4.1k),Telecom,Pune +102 other locations
+Publicis Sapient,3.2,(4.1k),IT Services & Consulting,Bengaluru +47 other locations
+Cummins,4.3,(4.1k),Industrial Machinery,Pune +117 other locations
+Cloudnine Hospital,4.5,(4k),Healthcare,Bengaluru +46 other locations
+Alembic Pharmaceuticals,3.9,(4k),Pharma,Vadodara +190 other locations
+Pidilite Industries,4.2,(4k),Chemicals,Mumbai +323 other locations
+Bank of America,4.1,(4k),Banking,Gurugram +34 other locations
+Grasim Industries,4.0,(4k),Building Material,Bharuch +265 other locations
+Aditya Birla Sun Life Insurance,4.0,(4k),Insurance,Mumbai +515 other locations
+Oyo Rooms,3.0,(4k),Hospitality,Gurugram +121 other locations
+PNB MetLife,3.3,(4k),Insurance,New Delhi +435 other locations
+PNB MetLife,3.3,(4k),Insurance,New Delhi +435 other locations
+Kyndryl,3.9,(4k),IT Services & Consulting,Bengaluru +40 other locations
+Aditya Birla Capital,3.8,(3.9k),NBFC,Mumbai +354 other locations
+KPIT Technologies,2.8,(3.9k),Software Product,Pune +43 other locations
+Subros,3.7,(3.9k),Auto Components,Noida +88 other locations
+ADP Private Limited,3.9,(3.9k),Software Product,Hyderabad +41 other locations
+Escorts Kubota Limited,4.1,(3.9k),Industrial Machinery,Faridabad +160 other locations
+Viatris,4.1,(3.9k),Pharma,Hyderabad +81 other locations
+Maersk,3.9,(3.9k),Logistics,Chennai +50 other locations
+XpressBees,4.1,(3.9k),Logistics,Pune +482 other locations
+JK Cement,4.0,(3.9k),Building Material,New Delhi +334 other locations
+PVR INOX,3.9,(3.9k),Media & Entertainment,New Delhi +152 other locations
+Altruist Technologies,4.4,(3.9k),BPO,Bengaluru +43 other locations
+Birlasoft,3.4,(3.8k),IT Services & Consulting,Pune +50 other locations
+Synechron,3.4,(3.8k),IT Services & Consulting,Pune +33 other locations
+PhonePe,4.0,(3.8k),FinTech,Bengaluru +415 other locations
+Reliance Communications,3.9,(3.8k),Telecom,Mumbai +468 other locations
+Blinkit,3.8,(3.8k),Internet,Gurugram +167 other locations
+Glenmark Pharmaceuticals,3.8,(3.8k),Pharma,Mumbai +195 other locations
+Kotak Mahindra Life Insurance Company,3.5,(3.8k),Insurance,Mumbai +259 other locations
+Bharat Electronics,4.2,(3.8k),Electronics Manufacturing,Bengaluru +91 other locations
+Dabur,3.8,(3.8k),FMCG,New Delhi +322 other locations
+Sodexo,4.0,(3.8k),Hospitality,Mumbai +162 other locations
+Cogent E Services,3.1,(3.7k),BPO,Noida +58 other locations
+Godrej & Boyce Manufacturing,3.8,(3.7k),Consumer Electronics & Appliances,Mumbai +175 other locations
+UNO Minda,3.9,(3.7k),Auto Components,Pune +112 other locations
+ArcelorMittal Nippon Steel India,4.1,(3.7k),Iron & Steel,Surat +90 other locations
+Ipca Laboratories,3.8,(3.7k),Pharma,Mumbai +165 other locations
+Abbott,4.1,(3.7k),Pharma,Mumbai +215 other locations
+Aarti Industries,4.1,(3.7k),Agro Chemicals,Bharuch +61 other locations
+Samvardhana Motherson Group,3.7,(3.7k),Auto Components,Noida +95 other locations
+Reliance Projects & Property Management Services,4.0,(3.6k),Other,Kolkata +626 other locations
+Reliance Digital,4.1,(3.6k),Retail,Mumbai +386 other locations
+IGT Solutions,3.2,(3.6k),BPO,New Delhi +48 other locations
+MRF Tyres,3.6,(3.6k),Auto Components,Chennai +195 other locations
+Indian Oil Corporation,4.4,(3.6k),Oil & Gas,New Delhi +313 other locations
+"NTT DATA, Inc.",3.9,(3.6k),IT Services & Consulting,Bengaluru +38 other locations
+Alkem Laboratories,3.9,(3.6k),Pharma,Mumbai +202 other locations
+Johnson Controls,3.5,(3.6k),Industrial Automation,Pune +58 other locations
+Honda Motorcycle & Scooter,4.1,(3.5k),Automobile,Gurugram +303 other locations
+[24]7.ai,3.4,(3.5k),Hospitality,Bengaluru +36 other locations
+Vishal Mega Mart,3.7,(3.5k),Retail,New Delhi +383 other locations
+Barclays,3.7,(3.5k),Banking,Pune +38 other locations
+Hindustan Coca Cola Beverages,4.0,(3.5k),Beverage,Bengaluru +266 other locations
+DTDC Express,3.7,(3.5k),Logistics,New Delhi +274 other locations
+Bajaj General Insurance Limited,3.6,(3.5k),Insurance,Pune +310 other locations
+RSPL Group,4.0,(3.5k),FMCG,Kanpur +264 other locations
+UBS,3.8,(3.5k),Financial Services,Pune +19 other locations
+IndusInd Nippon Life Insurance,3.3,(3.5k),Insurance,Mumbai +496 other locations
+TVS Credit Services Ltd,4.1,(3.5k),NBFC,Chennai +452 other locations
+ABB,4.0,(3.5k),Industrial Machinery,Bengaluru +109 other locations
+AGS Health,3.9,(3.5k),Analytics & KPO,Chennai +64 other locations
+Ceat Tyres,3.9,(3.4k),Auto Components,Nagpur +143 other locations
+NatWest Group,3.9,(3.4k),Banking,Gurugram +30 other locations
+Ford Motor,4.2,(3.4k),Automobile,Chennai +131 other locations
+HARMAN,3.8,(3.4k),Consumer Electronics & Appliances,Bengaluru +42 other locations
+InterGlobe Aviation,3.4,(3.4k),Aviation,New Delhi +105 other locations
+Alstom Transportation,3.7,(3.4k),Engineering & Construction,Bengaluru +80 other locations
+Croma,3.8,(3.4k),Retail,Mumbai +196 other locations
+Niva Bupa Health Insurance Company,4.0,(3.4k),Insurance,New Delhi +326 other locations
+Conduent,3.4,(3.4k),BPO,Bengaluru +36 other locations
+Sagility,3.9,(3.3k),BPO,Bengaluru +29 other locations
+Tata AIG,4.0,(3.3k),Insurance,Mumbai +263 other locations
+Tata Technologies,3.4,(3.3k),Automobile,Pune +59 other locations
+Indian Air Force,4.6,(3.3k),Defence & Aerospace,New Delhi +135 other locations
+GeBBS Healthcare Solutions,3.8,(3.3k),BPO,Mumbai +26 other locations
+Canara HSBC Life Insurance,4.1,(3.3k),Insurance,Gurugram +369 other locations
+Tata AutoComp Systems,3.7,(3.3k),Auto Components,Pune +83 other locations
+Jindal Stainless,4.1,(3.3k),Iron & Steel,Jajpur +79 other locations
+UPL,4.1,(3.3k),Agro Chemicals,Ankleshwar +185 other locations
+PepsiCo,4.0,(3.3k),Food Processing,Hyderabad +282 other locations
+Max Healthcare,4.0,(3.2k),Healthcare,New Delhi +78 other locations
+Ambuja Cements,3.9,(3.2k),Building Material,Ahmedabad +301 other locations
+Mankind Pharma,3.8,(3.2k),Pharma,New Delhi +250 other locations
+Titan Company,4.2,(3.2k),Retail,Bengaluru +187 other locations
+Allcargo Logistics,3.8,(3.2k),Logistics,Mumbai +175 other locations
+Amazon Transportation Services,4.2,(3.2k),Logistics,Hyderabad +226 other locations
+Dilip Buildcon,3.9,(3.2k),Engineering & Construction,Bhopal +230 other locations
+S&P Global,3.9,(3.2k),Analytics & KPO,Hyderabad +49 other locations
+Societe Generale Global Solution Centre,3.6,(3.2k),IT Services & Consulting,Bengaluru +24 other locations
+MSN Laboratories,3.6,(3.2k),Pharma,Hyderabad +107 other locations
+Varroc Group,3.6,(3.2k),Auto Components,Pune +63 other locations
+Walmart,3.4,(3.2k),Retail,Bengaluru +91 other locations
+Quest Global,3.5,(3.2k),IT Services & Consulting,Bengaluru +49 other locations
+Tata Electronics,3.8,(3.2k),Semiconductors,Hosur +62 other locations
+ESAF Small Finance Bank,3.6,(3.2k),Banking,Thrissur +461 other locations
+Afcons Infrastructure,4.2,(3.2k),Engineering & Construction,Mumbai +125 other locations
+Ola Electric Mobility,3.3,(3.2k),Automobile,Bengaluru +446 other locations
+IDFC FIRST Bharat,4.1,(3.1k),Financial Services,Chennai +449 other locations
+Marpu Foundation,4.9,(3.1k),Non-Profit,Hyderabad +61 other locations
+Torrent Pharmaceuticals,4.0,(3.1k),Pharma,Ahmedabad +133 other locations
+DS Group,4.0,(3.1k),FMCG,Noida +294 other locations
+Zepto,3.6,(3.1k),Internet,Bengaluru +110 other locations
+Bharat Financial Inclusion,3.7,(3.1k),Financial Services,Hyderabad +516 other locations
+Tata Elxsi,3.4,(3.1k),IT Services & Consulting,Bengaluru +31 other locations
+Square Yards,3.5,(3.1k),Internet,Gurugram +51 other locations
+HDFC Sales,3.9,(3.1k),Financial Services,Mumbai +355 other locations
+Suzlon Group,4.0,(3.1k),Power,Pune +149 other locations
+Zensar Technologies,3.6,(3k),IT Services & Consulting,Pune +29 other locations
+Indus Towers,3.6,(3k),Telecom,Gurugram +245 other locations
+Eternal Limited,3.6,(3k),Internet,Gurugram +222 other locations
+Fujitsu,3.8,(3k),IT Services & Consulting,Pune +41 other locations
+Future Group,4.2,(3k),Retail,Mumbai +207 other locations
+CMS IT Services,3.1,(3k),IT Services & Consulting,Mumbai +153 other locations
+I Process Services,3.8,(3k),Recruitment,Mumbai +409 other locations
+VVDN Technologies,3.6,(3k),IT Services & Consulting,Gurugram +51 other locations
+ACC,3.9,(3k),Building Material,Mumbai +278 other locations
+IKS Health,3.5,(3k),BPO,Mumbai +33 other locations
+Yazaki,3.9,(3k),Auto Components,Pune +94 other locations
+Shree Cement,3.8,(3k),Building Material,Beawar +271 other locations
+Nokia,4.0,(3k),Telecom,Bengaluru +165 other locations
+Shoppers Stop,3.9,(3k),Retail,Mumbai +85 other locations
+Apollo Tyres,4.0,(2.9k),Auto Components,Chennai +182 other locations
+Fiserv,2.7,(2.9k),FinTech,Pune +33 other locations
+Britannia,4.0,(2.9k),Hospitality,Pune +307 other locations
+Physicswallah,3.6,(2.9k),EdTech,Noida +146 other locations
+Landmark Group,3.8,(2.9k),Retail,Bengaluru +175 other locations
+Exl India,3.5,(2.9k),Logistics,New Delhi +45 other locations
+Dalmia Bharat Cement,3.9,(2.8k),Building Material,Guwahati +255 other locations
+SRF,4.1,(2.8k),Chemicals,Bharuch +68 other locations
+Kansai Nerolac Paints,3.8,(2.8k),Chemicals,Mumbai +265 other locations
+ZS,3.0,(2.8k),Management Consulting,Pune +17 other locations
+Blue Dart Express Ltd,3.9,(2.8k),Logistics,Mumbai +280 other locations
+Nestlé,3.8,(2.8k),FMCG,Gurugram +285 other locations
+Foxconn,3.8,(2.8k),Electronics Manufacturing,Chennai +64 other locations
+Star Health & Allied Insurance,3.5,(2.8k),Insurance,Chennai +338 other locations
+Exide Industries,3.4,(2.8k),Electrical Equipment,Kolkata +199 other locations
+UnitedHealth,4.0,(2.8k),Healthcare,Hyderabad +18 other locations
+Shell,3.9,(2.8k),Oil & Gas,Bengaluru +91 other locations
+Micro Labs,3.6,(2.7k),Pharma,Bengaluru +156 other locations
+TVS Supply Chain Solutions,3.8,(2.7k),Logistics,Chennai +157 other locations
+KPMG Global Services,3.4,(2.7k),Management Consulting,Bengaluru +38 other locations
+Flex,3.9,(2.7k),Electronics Manufacturing,Chennai +46 other locations
+ElasticRun,3.6,(2.7k),Logistics,Pune +391 other locations
+KFintech,3.3,(2.7k),Financial Services,Hyderabad +114 other locations
+Gallagher,3.6,(2.7k),Insurance,Bengaluru +31 other locations
+Care Health Insurance,3.5,(2.7k),Insurance,Gurugram +258 other locations
+Blue Star,4.0,(2.7k),Consumer Electronics & Appliances,Mumbai +150 other locations
+Ajanta Pharma,3.9,(2.7k),Pharma,Mumbai +118 other locations
+Capita,3.5,(2.7k),BPO,Pune +33 other locations
+Movate,3.1,(2.7k),IT Services & Consulting,Chennai +38 other locations
+G4S,4.0,(2.7k),Law Enforcement & Security,Gurugram +168 other locations
+Tata Advanced Systems,3.7,(2.7k),Defence & Aerospace,Bengaluru +58 other locations
+Sonalika Tractors,3.5,(2.7k),Automobile,Hoshiarpur +197 other locations
+Voltas,4.0,(2.7k),Consumer Electronics & Appliances,Mumbai +203 other locations
+Photon Interactive,4.1,(2.7k),IT Services & Consulting,Chennai +19 other locations
+Whitehat jr,3.3,(2.7k),EdTech,Mumbai +48 other locations
+ACT Fibernet,3.8,(2.7k),Telecom,Hyderabad +58 other locations
+Adani Power,3.7,(2.7k),Power,Mundra +131 other locations
+DBS Bank,3.7,(2.7k),Banking,Hyderabad +181 other locations
+BlackBuck,3.7,(2.7k),Internet,Bengaluru +364 other locations
+NoBroker,3.0,(2.7k),Internet,Bengaluru +47 other locations
+Foundever,3.3,(2.6k),BPO,Hyderabad +21 other locations
+Himalaya Wellness,3.9,(2.6k),Pharma,Bengaluru +245 other locations
+IntouchCX,2.7,(2.6k),BPO,Hyderabad +22 other locations
+Laurus Labs,4.3,(2.6k),Pharma,Visakhapatnam +35 other locations
+Domino's Pizza,3.9,(2.6k),Hospitality,New Delhi +258 other locations
+Fortis Healthcare,4.0,(2.6k),Healthcare,New Delhi +69 other locations
+BT Group,3.8,(2.6k),Telecom,Gurugram +26 other locations
+V-Mart,4.0,(2.6k),Retail,Gurugram +288 other locations
+JCB,3.8,(2.6k),Industrial Machinery,Pune +111 other locations
+Sahrudaya Healthcare (Medicover Hospitals),4.3,(2.6k),Healthcare,Hyderabad +46 other locations
+Alldigi Tech,3.8,(2.6k),BPO,Chennai +37 other locations
+GAO Tek,4.4,(2.6k),Electrical Equipment,New York +46 other locations
+Northern Trust Operating Services,3.6,(2.6k),Financial Services,Bengaluru +28 other locations
+Sterlite Technologies,3.8,(2.6k),Hardware & Networking,Chhatrapati Sambhajinagar +103 other locations
+Adani Group,3.8,(2.5k),Power,Ahmedabad +203 other locations
+CorroHealth Infotech,3.6,(2.5k),Analytics & KPO,Hyderabad +38 other locations
+Tractors and Farm Equipment,3.9,(2.5k),Industrial Machinery,Chennai +193 other locations
+Bajaj Electricals,3.9,(2.5k),Consumer Electronics & Appliances,Mumbai +235 other locations
+Parle Agro,3.9,(2.5k),Beverage,Mumbai +260 other locations
+ICICI Securities,3.9,(2.5k),Financial Services,Mumbai +157 other locations
+Sammaan Capital Limited,3.7,(2.5k),NBFC,Gurugram +199 other locations
+Emcure Pharmaceuticals,3.6,(2.5k),Pharma,Pune +122 other locations
+Biocon Limited,4.0,(2.5k),Biotechnology,Bengaluru +66 other locations
+TaskUs,2.9,(2.5k),BPO,Indore +38 other locations
+Planet Spark,3.8,(2.5k),EdTech,Gurugram +59 other locations
+Hero FinCorp,3.9,(2.5k),NBFC,New Delhi +395 other locations
+Mahindra Holidays & Resorts,3.5,(2.5k),Hospitality,Mumbai +115 other locations
+Cadila Pharmaceuticals,3.2,(2.5k),Pharma,Ahmedabad +140 other locations
+Intellect Design Arena,3.5,(2.5k),Software Product,Chennai +40 other locations
+Mahindra Rural Housing Finance,4.0,(2.5k),NBFC,Mumbai +476 other locations
+Datamatics Global Services,3.4,(2.5k),IT Services & Consulting,Mumbai +38 other locations
+McDonald's,3.8,(2.5k),Hospitality,New Delhi +152 other locations
+Syngene International,3.7,(2.5k),Clinical Research,Bengaluru +22 other locations
+Paras Hospital,4.1,(2.5k),Healthcare,Patna +60 other locations
+Patanjali Ayurved,4.0,(2.4k),FMCG,Haridwar +301 other locations
+Newgen Software Technologies,4.1,(2.4k),IT Services & Consulting,Noida +32 other locations
+Aditya Birla Group,4.1,(2.4k),Metals & Mining,Mumbai +275 other locations
+Bureau Veritas,3.8,(2.4k),Other,Mumbai +151 other locations
+Team Computers,3.7,(2.4k),IT Services & Consulting,New Delhi +109 other locations
+RMSI,3.5,(2.4k),IT Services & Consulting,Hyderabad +26 other locations
+3i Infotech,3.5,(2.4k),IT Services & Consulting,Mumbai +134 other locations
+Cholamandalam MS General Insurance,3.7,(2.4k),Insurance,Chennai +397 other locations
+Info Edge,3.8,(2.4k),Internet,Noida +70 other locations
+Taj Hotels Resorts and Palaces,4.2,(2.4k),Hospitality,Mumbai +114 other locations
+Statestreet HCL Services,3.4,(2.4k),BPO,Chennai +18 other locations
+Aavas Financiers,3.9,(2.4k),NBFC,Jaipur +300 other locations
+Delhi Public School,3.7,(2.4k),Education & Training,New Delhi +277 other locations
+Capgemini Engineering,3.3,(2.4k),IT Services & Consulting,Bengaluru +28 other locations
+Axis Direct,3.6,(2.4k),Financial Services,Mumbai +271 other locations
+Lodha,4.2,(2.4k),Real Estate,Mumbai +30 other locations
+Cybage,3.7,(2.4k),IT Services & Consulting,Pune +15 other locations
+Straive,3.3,(2.4k),IT Services & Consulting,Chennai +33 other locations
+Kia India,3.9,(2.4k),Automobile,Anantapur +192 other locations
+Apollo Pharmacy,3.7,(2.4k),Pharma,Hyderabad +291 other locations
+TCE,3.9,(2.4k),Engineering & Construction,Mumbai +133 other locations
+Sopra Steria,3.9,(2.4k),IT Services & Consulting,Noida +19 other locations
+KocharTech,3.6,(2.4k),IT Services & Consulting,Kolkata +25 other locations
+Xoriant,4.0,(2.4k),IT Services & Consulting,Pune +23 other locations
+GVK Emergency Management and Research Institute,3.6,(2.4k),Non-Profit,Lucknow +217 other locations
+SBI Securities,3.6,(2.3k),Financial Services,Mumbai +324 other locations
+Akums Drugs & Pharmaceuticals Limited,4.2,(2.3k),Pharma,Haridwar +41 other locations
+Sobha,3.8,(2.3k),Real Estate,Bengaluru +39 other locations
+Star Union Dai-ichi Life Insurance,3.8,(2.3k),Insurance,Mumbai +335 other locations
+Endurance Technologies Limited,3.9,(2.3k),Auto Components,Chhatrapati Sambhajinagar +52 other locations
+Bharat Petroleum,4.2,(2.3k),Oil & Gas,Mumbai +265 other locations
+BNP Paribas,3.7,(2.3k),Banking,Mumbai +27 other locations
+Eureka Forbes,3.6,(2.3k),Consumer Electronics & Appliances,Mumbai +186 other locations
+Daikin Airconditioning India Pvt. Ltd.,4.2,(2.3k),Consumer Electronics & Appliances,Neemrana +109 other locations
+Lifestyle,4.2,(2.3k),Retail,Bengaluru +130 other locations
+Panasonic Life Solutions India,3.9,(2.3k),Consumer Electronics & Appliances,Mumbai +171 other locations
+Myntra,3.8,(2.3k),Internet,Bengaluru +103 other locations
+Radisson Hotels,4.0,(2.3k),Hospitality,New Delhi +133 other locations
+AWL Agri Business,4.1,(2.3k),FMCG,Ahmedabad +206 other locations
+SBI General Insurance,3.5,(2.3k),Insurance,Mumbai +301 other locations
+Bharti AXA Life Insurance,3.6,(2.3k),Insurance,Mumbai +247 other locations
+Unacademy,2.9,(2.3k),EdTech,Bengaluru +74 other locations
+Cisco,4.1,(2.3k),Hardware & Networking,Bengaluru +48 other locations
+Renault Nissan Technology & Business Centre India,3.6,(2.2k),Automobile,Chennai +21 other locations
+Meesho,3.7,(2.2k),Internet,Bengaluru +138 other locations
+Coromandel International,4.1,(2.2k),Agro Chemicals,Visakhapatnam +187 other locations
+Sify Technologies,3.6,(2.2k),IT Services & Consulting,Chennai +138 other locations
+ValueLabs,3.4,(2.2k),IT Services & Consulting,Hyderabad +21 other locations
+Lava International,3.9,(2.2k),Consumer Electronics & Appliances,Noida +223 other locations
+JK Tyre,3.8,(2.2k),Auto Components,Chennai +148 other locations
+Henry Harvin Education,3.9,(2.2k),EdTech,Noida +35 other locations
+Indian Railways,4.2,(2.2k),Railways,Kolkata +252 other locations
+Allstate,3.7,(2.2k),Insurance,Pune +17 other locations
+Whirlpool,4.0,(2.2k),Consumer Electronics & Appliances,Pune +174 other locations
+Shahi Exports,4.0,(2.2k),Fashion & Textile,Bengaluru +72 other locations
+GlaxoSmithKline Pharmaceuticals,4.1,(2.2k),Pharma,Bengaluru +216 other locations
+Bank of Baroda,3.6,(2.2k),Banking,Mumbai +308 other locations
+Poonawalla Fincorp,3.6,(2.2k),NBFC,Pune +268 other locations
+Generali Central Life Insurance,3.4,(2.2k),Insurance,Mumbai +208 other locations
+Mercedes-Benz Research and Development India,3.5,(2.2k),IT Services & Consulting,Bengaluru +53 other locations
+Manipal Hospitals,4.0,(2.2k),Healthcare,Bengaluru +67 other locations
+Spark Minda,3.8,(2.2k),Auto Components,Pune +76 other locations
+Jio Platforms,3.4,(2.2k),IT Services & Consulting,Mumbai +105 other locations
+Saint-Gobain,3.8,(2.2k),Building Material,Mumbai +104 other locations
+FirstCry,3.5,(2.2k),Retail,Pune +216 other locations
+Infinite Computer Solutions,3.2,(2.2k),IT Services & Consulting,Bengaluru +36 other locations
+Nuvoco Vistas,4.1,(2.2k),Building Material,Kolkata +204 other locations
+Life Insurance Corporation of India,4.4,(2.2k),Insurance,Mumbai +479 other locations
+Cargill,3.9,(2.2k),Food Processing,Bengaluru +124 other locations
+CAMS,3.6,(2.2k),Financial Services,Chennai +112 other locations
+NTT DATA Business Solutions,4.1,(2.2k),IT Services & Consulting,Bengaluru +32 other locations
+Nokia Networks,4.1,(2.2k),Hardware & Networking,Chennai +86 other locations
+Brakes India,3.9,(2.2k),Auto Components,Chennai +101 other locations
+upGrad,3.3,(2.2k),EdTech,Bengaluru +52 other locations
+BHEL,4.2,(2.2k),Electrical Equipment,Bengaluru +139 other locations
+Microsoft Corporation,3.8,(2.2k),Software Product,Bengaluru +47 other locations
+Power Mech Projects,3.8,(2.2k),Engineering & Construction,Hyderabad +152 other locations
+Kotak Securities,3.4,(2.2k),Financial Services,Mumbai +143 other locations
+Force Motors,3.7,(2.1k),Automobile,Pune +107 other locations
+CitiusTech,3.1,(2.1k),IT Services & Consulting,Mumbai +17 other locations
+Pfizer,3.9,(2.1k),Pharma,Visakhapatnam +133 other locations
+"Maruti Suzuki India Limited, Hansalpur",4.2,(2.1k),Automobile,Ahmedabad +110 other locations
+Provana,4.1,(2.1k),BPO,Noida +12 other locations
+EPAM Systems,3.7,(2.1k),IT Services & Consulting,Hyderabad +36 other locations
+IndusInd General Insurance,3.6,(2.1k),Insurance,Mumbai +200 other locations
+Biological E,4.2,(2.1k),Pharma,Hyderabad +76 other locations
+Huawei Technologies,4.1,(2.1k),Telecom,Bengaluru +104 other locations
+SGS,3.8,(2.1k),Engineering & Construction,Mumbai +149 other locations
+ITC Hotels,4.1,(2.1k),Hospitality,Bengaluru +95 other locations
+Simplex Infrastructures,3.4,(2.1k),Engineering & Construction,Kolkata +138 other locations
+Reliance Trends,4.1,(2.1k),Retail,Bengaluru +399 other locations
+Morgan Stanley,3.6,(2.1k),Financial Services,Mumbai +19 other locations
+K12 Techno Services,3.7,(2.1k),EdTech,Bengaluru +43 other locations
+Raymond Lifestyle Limited,4.2,(2.1k),Fashion & Textile,Mumbai +150 other locations
+Delphi TVS,3.8,(2.1k),Auto Components,Chennai +61 other locations
+Aditya Birla Health Insurance Co,3.7,(2.1k),Insurance,Mumbai +258 other locations
+YASH Technologies,3.6,(2.1k),IT Services & Consulting,Hyderabad +33 other locations
+Ola Cabs,3.2,(2.1k),Internet,Bengaluru +112 other locations
+Renault-Nissan,4.1,(2.1k),Automobile,Chennai +86 other locations
+Narayana Health,4.0,(2.1k),Healthcare,Bengaluru +66 other locations
+Extramarks Education,3.2,(2.1k),EdTech,Noida +112 other locations
+Shadowfax Technologies,3.5,(2k),Logistics,Bengaluru +252 other locations
+Trent,3.8,(2k),Retail,Mumbai +150 other locations
+IDBI Bank,3.3,(2k),Banking,Mumbai +345 other locations
+Haier Appliances India,3.9,(2k),Consumer Electronics & Appliances,Pune +165 other locations
+Senco Gold,4.4,(2k),Jewellery,Kolkata +84 other locations
+Novartis,4.2,(2k),Pharma,Hyderabad +75 other locations
+Honeywell Automation,3.7,(2k),Industrial Automation,Pune +77 other locations
+AECOM,4.2,(2k),Engineering & Construction,Gurugram +125 other locations
+Motherson Automotive Technologies and Engineering,3.7,(2k),Auto Components,Chennai +68 other locations
+HSBC Electronic Data Processing,4.0,(2k),IT Services & Consulting,Bengaluru +19 other locations
+R.R. Donnelley,3.6,(2k),Marketing & Advertising,Chennai +27 other locations
+Schindler,3.9,(2k),Industrial Machinery,Pune +90 other locations
+SAP,4.1,(2k),Software Product,Bengaluru +53 other locations
+L&T Energy Hydrocarbon,3.8,(2k),Engineering & Construction,Vadodara +91 other locations
+Paisabazaar.com,3.4,(2k),Internet,Gurugram +35 other locations
+Aye Finance,4.1,(2k),NBFC,Gurugram +384 other locations
+CMS Infosystems,3.5,(2k),Software Product,Mumbai +225 other locations
+Ninjacart,3.8,(2k),Internet,Bengaluru +114 other locations
+TELUS Digital,3.5,(2k),IT Services & Consulting,Noida +28 other locations
+Globiva,3.0,(2k),BPO,Gurugram +34 other locations
+V-Guard,4.3,(2k),Consumer Electronics & Appliances,Kochi +173 other locations
+Uflex,3.8,(2k),Packaging,Noida +48 other locations
+NCR Voyix,3.4,(2k),IT Services & Consulting,Hyderabad +89 other locations
+Crisil,3.5,(2k),Analytics & KPO,Mumbai +82 other locations
+Spinny,3.6,(2k),Internet,Gurugram +62 other locations
+Dr Lal PathLabs,4.2,(2k),Healthcare,New Delhi +203 other locations
+Microland,3.5,(2k),IT Services & Consulting,Bengaluru +46 other locations
+Godrej Properties,3.6,(2k),Real Estate,Mumbai +35 other locations
+Aadhar Housing Finance,4.0,(2k),NBFC,Mumbai +333 other locations
+CNH (Case New Holland),3.7,(2k),Industrial Machinery,Gurugram +143 other locations
+Adecco Group,3.8,(2k),Recruitment,Bengaluru +188 other locations
+State Street Syntel,3.7,(2k),Financial Services,Pune +21 other locations
+Gabriel India Limited,4.0,(2k),Auto Components,Pune +52 other locations
+Gabriel India Limited,4.0,(2k),Auto Components,Pune +52 other locations
+Parle Products,3.9,(2k),FMCG,Mumbai +253 other locations
+Tata Power,3.9,(2k),Power,Mumbai +155 other locations
+HTC Global Services,3.3,(2k),IT Services & Consulting,Chennai +32 other locations
+G R Infraprojects,4.1,(2k),Engineering & Construction,Gurugram +162 other locations
+Angel One,3.5,(2k),FinTech,Mumbai +134 other locations
+Trident Group,3.3,(2k),Hospitality,Barnala +59 other locations
+DHL Supply Chain,4.2,(2k),Logistics,Mumbai +101 other locations
+CSB Bank,3.2,(2k),Banking,Mumbai +242 other locations
+ICICI Home Finance,3.7,(1.9k),Financial Services,Mumbai +222 other locations
+Verizon,3.5,(1.9k),Telecom,Hyderabad +12 other locations
+NTPC,4.2,(1.9k),Power,New Delhi +127 other locations
+Lucas-TVS,3.9,(1.9k),Auto Components,Chennai +80 other locations
+Iris Software,3.7,(1.9k),IT Services & Consulting,Noida +23 other locations
+Infinx,3.7,(1.9k),Software Product,Hyderabad +37 other locations
+Rungta Mines,3.9,(1.9k),Metals & Mining,Chaibasa +59 other locations
+Thomson Reuters,3.7,(1.9k),Software Product,Bengaluru +27 other locations
+Google,4.4,(1.9k),Software Product,Bengaluru +86 other locations
+Safexpress,3.9,(1.9k),Logistics,New Delhi +160 other locations
+NeoSOFT,3.2,(1.9k),IT Services & Consulting,Mumbai +26 other locations
+PI Industries,3.8,(1.9k),Agro Chemicals,Vadodara +109 other locations
+Torrent Power,3.7,(1.9k),Power,Ahmedabad +63 other locations
+Orchids International School,4.0,(1.9k),Education & Training,Bengaluru +35 other locations
+Polycab Wires,4.0,(1.9k),Electrical Equipment,Vadodara +169 other locations
+Jindal Saw,4.0,(1.9k),Iron & Steel,Mundra +78 other locations
+Medi Assist India,3.4,(1.9k),Insurance,Bengaluru +67 other locations
+Hindustan Aeronautics,4.3,(1.9k),Defence & Aerospace,Bengaluru +64 other locations
+Capri Global Capital,3.6,(1.9k),NBFC,New Delhi +349 other locations
+Tekwissen,4.9,(1.9k),IT Services & Consulting,Visakhapatnam +5 other locations
+Tata Tele Business Services,3.4,(1.9k),Telecom,Mumbai +136 other locations
+TVS Sundram Fasteners,3.6,(1.9k),Auto Components,Chennai +65 other locations
+Fusion CX,3.2,(1.9k),BPO,Kolkata +60 other locations
+Infra.Market,3.9,(1.9k),Building Material,Mumbai +135 other locations
+Aragen Life Sciences,3.9,(1.9k),Clinical Research,Hyderabad +29 other locations
+AXA Global Business Services,3.6,(1.9k),IT Services & Consulting,Pune +12 other locations
+KENT RO Systems,3.7,(1.9k),Consumer Electronics & Appliances,Noida +153 other locations
+First American (India),3.5,(1.9k),Insurance,Bengaluru +22 other locations
+Digit Insurance,3.6,(1.9k),Insurance,Bengaluru +93 other locations
+Haldiram Foods International Limited,3.8,(1.8k),FMCG,Nagpur +172 other locations
+AkzoNobel,4.1,(1.8k),Chemicals,Pune +161 other locations
+Honda Cars,4.3,(1.8k),Automobile,Bhiwadi +114 other locations
+Hindustan Petroleum,4.2,(1.8k),Oil & Gas,Mumbai +260 other locations
+Adani Green Energy,3.9,(1.8k),Power,Ahmedabad +117 other locations
+DIVI'S Laboratories,3.6,(1.8k),Pharma,Visakhapatnam +38 other locations
+Innovsource Services,3.9,(1.8k),Recruitment,Mumbai +254 other locations
+Sterling & Wilson,4.1,(1.8k),Engineering & Construction,Mumbai +132 other locations
+MetLife,4.0,(1.8k),Insurance,Noida +44 other locations
+Cafe Coffee Day,3.7,(1.8k),Hospitality,Bengaluru +105 other locations
+Air India,3.4,(1.8k),Aviation,New Delhi +67 other locations
+Isgec Heavy Engineering,3.8,(1.8k),Engineering & Construction,Noida +93 other locations
+Pine Labs,3.2,(1.8k),FinTech,Noida +122 other locations
+Reckitt Benckiser,3.9,(1.8k),FMCG,Gurugram +139 other locations
+USV,4.0,(1.8k),Pharma,Mumbai +108 other locations
+SS&C TECHNOLOGIES,3.2,(1.8k),IT Services & Consulting,Mumbai +30 other locations
+USHA International,4.0,(1.8k),Consumer Electronics & Appliances,Gurugram +151 other locations
+LivSpace,3.3,(1.8k),Architecture & Interior Design,Bengaluru +53 other locations
+HDFC Securities,3.4,(1.8k),Financial Services,Mumbai +189 other locations
+XBP Global,3.1,(1.8k),Internet,Chennai +24 other locations
+Annapurna Finance,3.8,(1.8k),NBFC,Bhubaneswar +411 other locations
+Kalyan Jewellers,4.4,(1.8k),Jewellery,Thrissur +161 other locations
